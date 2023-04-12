@@ -1,0 +1,3 @@
+C:/Users/nanif/Documents/2023/algo3/cuadradoMagicoVersion10000/cmake-build-debug/CMakeFiles/cuadradoMagicoVersion10000.dir
+C:/Users/nanif/Documents/2023/algo3/cuadradoMagicoVersion10000/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nanif/Documents/2023/algo3/cuadradoMagicoVersion10000/cmake-build-debug/CMakeFiles/rebuild_cache.dir
